@@ -1,3 +1,7 @@
+# 3.2.3
+
+- Improve compatibility
+
 # 3.2.2
 
 - Support Minecraft 1.20.X

@@ -18,4 +18,9 @@ public class Platform {
     protected static Type getPlatformType() {
         throw new AssertionError();
     }
+
+    @ExpectPlatform
+    public static boolean isModLoaded(String modid) {
+        throw new AssertionError();
+    }
 }
